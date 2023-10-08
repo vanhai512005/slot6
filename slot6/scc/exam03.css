@@ -3,7 +3,7 @@ header, section, footer, aside, nav, article, figure, figcaption{
 body{
     color: #666666;
     background-color: #f9f8f6;
-    background-image: url("../images/darkwood.jpg");
+    background-image: url("images/darkwood.jpg");
     background-position: center;
     font-family: georgia,times, serif;
     line-height: 1.4em;
@@ -17,7 +17,7 @@ wrapper{
 }
 header{
     height: 160px;
-    background-image: url("../images/header.jpg");
+    background-image: url("images/header.jpg");
 }
 h1{
     text-indent: -9999pcx;
@@ -107,4 +107,3 @@ footer{
     font-size: 80%;
     padding: 7px 0px 0px 20px;
 }
-</style>
